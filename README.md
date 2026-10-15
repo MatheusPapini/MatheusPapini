@@ -2,6 +2,7 @@
 ### 👨‍💻 Desenvolvedor Full Stack em formação
 Sou apaixonado por tecnologia e programação. Estou em busca de uma oportunidade de **estágio em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais.
 Tenho experiência em projetos acadêmicos e colaborativos, participando de diferentes etapas do desenvolvimento de aplicações e utilizando metodologias ágeis.
+
 ### 🚀 Tecnologias e Ferramentas
 **Desenvolvimento**
 - Front-end e Back-end
@@ -28,8 +29,6 @@ O Enlace+ tem como objetivo promover a inclusão digital e a interação social 
 - Participação nas entregas incrementais do projeto.
 - Utilização da metodologia Kanban.
 - Colaboração na implementação de funcionalidades.
-
-🔗 Repositório: *Adicionar link do projeto*
 
 ### 📚 Atualmente
 
