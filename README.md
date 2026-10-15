@@ -14,6 +14,7 @@ Tenho experiência em projetos acadêmicos e colaborativos, participando de dife
 - Metodologias ágeis (Kanban)
 - Trabalho colaborativo
 - Organização e versionamento de código
+
 *As linguagens, frameworks e bancos de dados específicos serão adicionados conforme meus conhecimentos e experiências.*
 
 ### 💼 Projeto em Destaque
